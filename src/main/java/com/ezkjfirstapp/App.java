@@ -1,4 +1,4 @@
-package jar;
+package com.ezkjfirstapp;
 
 /**
  * Hello world!
